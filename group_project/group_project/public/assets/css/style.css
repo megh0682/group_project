@@ -1,0 +1,14 @@
+body{
+	background-image:url("https://unsplash.com/search/photos/wine-glass?photo=vmrCxMRdq58");
+	font-family:Lobster;
+	font-size: 1.5em;
+	font-color:#722f37;
+
+}
+.facebook{
+	width:300px;
+	height:auto;
+}
+.btn-primary{
+	background-color: #3b5999;
+}

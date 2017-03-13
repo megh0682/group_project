@@ -1,0 +1,12 @@
+{
+  "name": "public",
+  "version": "4.4.5",
+  "description": "test",
+  "dependencies": {},
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
