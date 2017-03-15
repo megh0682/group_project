@@ -156,7 +156,9 @@
 }
 
 .red.darken-4 {
+
   background-color: #920000 !important;
+
 }
 
 .red-text.text-darken-4 {
@@ -1948,6 +1950,7 @@
 }
 
 .brown.darken-4 {
+
   background-color: #5D3D00 !important;
 }
 
@@ -7837,4 +7840,3 @@ input[type=range]:focus::-ms-fill-upper {
 .carousel .indicators .indicator-item.active {
   background-color: #fff;
 }
-
