@@ -1,16 +1,19 @@
 
-
-nav ul a,
-nav .brand-logo {
-  color: #444;
+body{
+  background-color: white;
 }
+.navbar.li{
+  color: white;
+
+}
+h1{
+  text-shadow: black;
+}
+
+
 
 p {
   line-height: 2rem;
-}
-
-.button-collapse {
-  color: #26a69a;
 }
 
 .parallax-container {
